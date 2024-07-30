@@ -7,12 +7,13 @@ Scaling within a dynamically changing market and lacking actionable insights, ou
 I was tasked with performing data analysis using SQL and Power BI to track revenue growth, year-over-year (YOY) trends, and region-wise sales performance.
 
 🚀 Action & Skills Learned:
+
 To achieve this, I:
 
-Employed SQL queries to retrieve the necessary data and conducted high-level analysis.
-Connected the SQL database to Power BI, performed data cleaning, and executed ETL (Extract, Transform, Load) processes.
-Learned and applied DAX language for creating measures in Power BI.
-Developed an interactive Power BI dashboard with diverse visuals to display key metrics.
+-Employed SQL queries to retrieve the necessary data and conducted high-level analysis.
+-Connected the SQL database to Power BI, performed data cleaning, and executed ETL (Extract, Transform, Load) processes.
+-Learned and applied DAX language for creating measures in Power BI.
+-Developed an interactive Power BI dashboard with diverse visuals to display key metrics.
 
 
 💡 Result:
