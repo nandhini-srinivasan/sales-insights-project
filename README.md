@@ -13,6 +13,8 @@ Employed SQL queries to retrieve the necessary data and conducted high-level ana
 Connected the SQL database to Power BI, performed data cleaning, and executed ETL (Extract, Transform, Load) processes.
 Learned and applied DAX language for creating measures in Power BI.
 Developed an interactive Power BI dashboard with diverse visuals to display key metrics.
+
+
 💡 Result:
 The dashboard enabled quick, data-informed decisions, effectively displaying sales trends. This actionable insight allowed stakeholders to optimize products, prioritize customers, and evaluate sales performance, potentially raising revenue by at least 7% in the next quarter.
 
